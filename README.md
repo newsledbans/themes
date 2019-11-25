@@ -8,6 +8,7 @@
 - want to organize content in a linear way to progress from beginner to advanced content, like tutorials or step-by-step articles in a section.
 
 ![Doc Theme](screenshots/doc/home.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnewsledbans%2Fthemes.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnewsledbans%2Fthemes?ref=badge_shield)
 
 ## [Role Theme](role_theme)
 
@@ -42,3 +43,7 @@
 - Easy and clean look
 
 ![Classic Theme](screenshots/classic/home.png)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnewsledbans%2Fthemes.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnewsledbans%2Fthemes?ref=badge_large)
